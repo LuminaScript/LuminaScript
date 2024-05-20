@@ -12,7 +12,7 @@ Hello! My name is **Yizhen**. I am a passionate system software engineer with a 
 ## 💼 Working Experience
 
 - **Linux Intern (RTOS)**, Boeing Company *May 2024 - August 2024* ✈️
-- **Research Assistant**, Columbia University A2R Lab *January 2024 - May 2024* 🤖 Focus: CUDA/C++, Robotic Optimization
+- **Research Assistant (Cuda, C++, Robotic Optimization)**, Columbia University A2R Lab *January 2024 - May 2024* 🤖
 - **System Software Engineer Intern (C++ Backend)**, STEP (Automotive OEMs startup) *May 2023 - July 2023* 🚗
 
 ## ⚡ Stack Passion
