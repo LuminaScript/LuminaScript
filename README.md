@@ -1,9 +1,3 @@
-# 👋 Welcome to Yizhen's GitHub Profile!
-
-## Introduction
-
-Hello! My name is **Yizhen**. I am a passionate system software engineer with a deep love for Linux OS 🐧 and system-level programming 💻.
-
 ## 🎓 Education
 
 - **Master of Science in Computer Science**, Columbia University, 2024 🎓
