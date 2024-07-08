@@ -5,7 +5,7 @@
 
 ## 💼 Working Experience
 
-- **Linux Intern (RTOS)**, Boeing Company *May 2024 - August 2024* ✈️
+- **Linux Intern**, Boeing Company *May 2024 - August 2024* ✈️
 - **Research Assistant (Cuda, C++, Robotic Optimization)**, Columbia University A2R Lab *January 2024 - May 2024* 🤖
 - **System Software Engineer Intern (C++ Backend)**, STEP (Automotive OEMs startup) *May 2023 - July 2023* 🚗
 
