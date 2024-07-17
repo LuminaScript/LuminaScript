@@ -5,9 +5,9 @@
 
 ## 💼 Working Experience
 
-- **Software Engineer Intern**, Boeing Co, Boeing Linux *May 2024 - August 2024* ✈️
-- **Research Software Engineer (Cuda, C++, Robotic Optimization)**, Columbia University, A2R Lab *January 2024 - May 2024* 🤖
-- **Software Engineer Intern (C++ Backend)**, STEP (Automotive OEMs startup) *May 2023 - July 2023* 🚗
+- **Software Engineer Intern**, Boeing Co, Boeing Linux, May 2024 - August 2024
+- **Research Software Engineer (Cuda, C++, Robotic Optimization)**, Columbia University, A2R Lab, January 2024 - May 2024
+- **Software Engineer Intern (C++ Backend)**, STEP (Automotive OEMs startup), May 2023 - July 2023
 
 ## ⚡ Stack Passion
 
