@@ -1,1 +1,1 @@
-A tech idealist: building stack to infinity and beyond.
+Software Engineer interested in open-source
