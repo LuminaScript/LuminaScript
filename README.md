@@ -1,1 +1,1 @@
-Software Engineer interested in open-source
+Software Engineer interested in tech
